@@ -3,7 +3,6 @@ Automation for scheduled zoom meetings.
 
 ### Features
 * Automatically opens scheduled zoom meetings where schedule is saved in a csv file.
-* Can send email notifications about meetings that have started and joined by the script.
 
 ### Setup (for Windows)
 1. Download & Install Python from [here](https://www.python.org/ftp/python/3.8.5/python-3.8.5.exe).

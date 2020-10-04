@@ -44,5 +44,4 @@ def attend_class(timetable_location):
 
             time.sleep(60)
 
-if __name__ == "__main__":
-    attend_class(sys.argv[1])
+attend_class(sys.argv[1])

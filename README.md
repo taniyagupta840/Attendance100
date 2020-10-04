@@ -8,14 +8,6 @@ Automation for scheduled zoom meetings.
 1. Download & Install Python from [here](https://www.python.org/ftp/python/3.8.5/python-3.8.5.exe).
 1. Fill the zoom meeting links in ```timetable.csv```.
 
-### Usage
-
-Run ```attendance100.bat```.
-
-OR
-
-**For complete automation** create ```New Task``` in ```Task Scheduler``` to schedule and run ```attendance100.bat```.
-
 ### Notes
 * It would be better if zoom application is logged in already so that it doesn't ask for login credentials on joining the link.
 * ```timetable.csv``` column number 1 to 6 denote Monday to Saturday.
